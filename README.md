@@ -1,4 +1,5 @@
 Incident Uploader to Supabase
+
 Overview
 This script uploads incident data from a SQLite database to a Supabase server using Remote Procedure Calls (RPC). It maps device information, categorizes incidents, and ensures secure communication with the server. Data deletion options are included for cleanup post-upload.
 
